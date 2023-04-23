@@ -1,24 +1,24 @@
-#Pacman Game in C++ with OpenGL
+# Pacman Game in C++ with OpenGL
 This is a simple Pacman game created using C++ and OpenGL. The game features a Pacman character that navigates through a maze to collect dots while avoiding ghosts.
 
-Requirements
+### Requirements
 C++11 or later
 OpenGL 3.3 or later
 GLFW 3.3 or later
 GLAD
-How to Install
+### How to Install
 Clone this repository using the following command:
 bash
 Copy code
 git clone https://github.com/SidAltair27/Pacman-openGL
-Install the required dependencies:
+### Install the required dependencies:
 GLFW: https://www.glfw.org/
 GLAD: https://glad.dav1d.de/
-Compile the code using the makefile provided:
+#### Compile the code using the makefile provided:
 go
 Copy code
 make
-How to Play
+#### How to Play
 To start the game, run the following command:
 
 bash
@@ -28,23 +28,26 @@ The game will start with Pacman in the center of the maze. The objective of the 
 
 Use the arrow keys to move Pacman around the maze.
 
-Contributing
-Contributions are welcome! If you would like to contribute to this project, please create a pull request.
+### Contributing
+#### Contributions are welcome! If you would like to contribute to this project, please create a pull request.
 
-Installation
+Fork the repository.
+Create a new branch with git checkout -b featureyour-feature-name.
+
+Make changes and commit them.
+
+Push your changes to your fork with git push origin feature/your-feature-name.
+
+Create a pull request on the main repository.
+
+### Installation
 Clone the repository.
 Install the required dependencies with npm install.
 
-Usage
+### Usage
 Run the project with npm start.
 Use the application as desired.
 
-Contributing
-Fork the repository.
-Create a new branch with git checkout -b feature/your-feature-name.
-Make changes and commit them.
-Push your changes to your fork with git push origin feature/your-feature-name.
-Create a pull request on the main repository.
 
-License
+## License
 This project is licensed under the MIT License.
